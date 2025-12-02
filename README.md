@@ -1,9 +1,7 @@
-# Tesla-Market-Entry
-# Australia vs. Saudi Arabia Market Entry Case Study  
-*Tesla FP&A / Business Operations Interview Project*
+# Australia vs. Saudi Arabia Tesla Market Entry Case Study  
 
 ## Overview
-This project evaluates Tesla’s market-entry potential in **Australia vs. Saudi Arabia**, based on EV readiness, regulation, infrastructure maturity, financial ROI, and long-term strategic value. It was completed for a Business Operations & FP&A case study.
+This project evaluates Tesla’s market-entry potential in **Australia vs. Saudi Arabia**, based on EV readiness, regulation, infrastructure maturity, financial ROI, and long-term strategic value. This was part of an interview assessment for an Analyst role under the Corporate Development team at Tesla.
 
 **Deliverables included:**
 - A structured market-entry strategy deck  
