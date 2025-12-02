@@ -35,7 +35,3 @@ Saudi Arabia presents long-term potential but requires larger upfront investment
 - Structuring open-ended strategy problems  
 - Building assumptions with limited data  
 - Communicating insights clearly & visually  
-
-## Contact
-**Ved Varun Neerukonda**  
-(Insert LinkedIn or email here)
