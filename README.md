@@ -4,9 +4,8 @@
 This project evaluates Tesla’s market-entry potential in **Australia vs. Saudi Arabia**, based on EV readiness, regulation, infrastructure maturity, financial ROI, and long-term strategic value. This was part of an interview assessment for an Analyst role under the Corporate Development team at Tesla.
 
 **Deliverables included:**
-- A structured market-entry strategy deck  
-- An Excel financial model (TAM sizing, scenarios, profitability)  
-- A scoring framework comparing both markets  
+- A structured PowerPoint strategy deck comparing both markets  
+- An Excel financial model (TAM sizing, scenarios, revenue streams, profitability)  
 
 ## Key Skills Used
 - Financial modeling & TAM estimation  
