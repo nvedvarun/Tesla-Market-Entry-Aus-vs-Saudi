@@ -1,18 +1,11 @@
 # Australia vs. Saudi Arabia Tesla Market Entry Case Study  
 
 ## Overview
-This project evaluates Tesla’s market-entry potential in **Australia vs. Saudi Arabia**, based on EV readiness, regulation, infrastructure maturity, financial ROI, and long-term strategic value. This was part of an 48-hour interview assessment for an Analyst role under the Regulatory Credit Trading team at Tesla.
+This project evaluates Tesla’s market-entry potential in **Australia vs. Saudi Arabia**, based on EV readiness, regulation, infrastructure maturity, financial ROI, and long-term strategic value. This was part of an 48-hour interview assessment for an Analyst role under the Regulatory Credit Trading team at Tesla. The prompt was just a two-liner asking "whether to enter the Saudi Arabian or Australian automotive market first" without any resources/data.
 
 **Deliverables included:**
 - A structured **PowerPoint strategy deck** comparing both markets  
 - An **Excel financial model** (TAM sizing, scenarios, revenue streams, profitability)  
-
-<!-- ## Key Skills Used
-- Financial modeling & TAM estimation
-- Variance Analysis
-- Market & policy analysis  
-- KPI evaluation  
-- Executive storytelling & slide synthesis  -->
 
 ## Thought Process
 
